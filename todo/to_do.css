@@ -1,0 +1,45 @@
+.navigation_bar {
+  width: 200px;
+  height: 1000px;
+  background-color: #feffb8;
+  display: inline-block;
+}
+.weekly {
+  display: inline-block;
+  vertical-align: top;
+}
+.card {
+  display: inline-block;
+  height: 210px;
+  width: 210px;
+  background-color: #fbff00;
+}
+.cardd {
+  background-color: white;
+  height: 34px;
+}
+.quick_task {
+  display: inline-block;
+  /* vertical-align: top; */
+}
+.caaard {
+  height: 64px;
+  width: 600px;
+  background-color: gray;
+}
+.crd {
+  height: 40px;
+  background-color: white;
+}
+:root{
+  --primary-color: yellow;
+  --secondary-color:orange
+
+
+
+
+
+
+
+  
+}
